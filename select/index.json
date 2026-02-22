@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Bittersweet",
+  "base_artist": "ARASHI",
+  "createdAt": "2026-02-22T18:57:33.811854Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bittersweet Symphony",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/01_Bittersweet_Symphony_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Calm Down (Bittersweet) [feat. Summer Walker]",
+      "artist": "A Boogie wit da Hoodie",
+      "has_synced": true,
+      "path": "select/02_Calm_Down_(Bittersweet)_[feat._Summer_Walker]_A_Boogie_wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Calm Down (Bittersweet) [feat. Summer Walker]",
+      "artist": "A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/03_Calm_Down_(Bittersweet)_[feat._Summer_Walker]_A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bittersweet Loving",
+      "artist": "Deee-Lite",
+      "has_synced": true,
+      "path": "select/04_Bittersweet_Loving_Deee-Lite.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bittersweet Loving",
+      "artist": "Deee‐Lite",
+      "has_synced": true,
+      "path": "select/05_Bittersweet_Loving_Deee‐Lite.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bittersweet Tragedy",
+      "artist": "Melanie Martinez",
+      "has_synced": true,
+      "path": "select/06_Bittersweet_Tragedy_Melanie_Martinez.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bittersweet Melodies",
+      "artist": "Feist",
+      "has_synced": true,
+      "path": "select/07_Bittersweet_Melodies_Feist.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bittersweet",
+      "artist": "Lenka",
+      "has_synced": true,
+      "path": "select/08_Bittersweet_Lenka.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bittersweet",
+      "artist": "Moxy Fruvous",
+      "has_synced": true,
+      "path": "select/09_Bittersweet_Moxy_Fruvous.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Duel - Bittersweet",
+      "artist": "Propaganda",
+      "has_synced": false,
+      "path": "select/10_Duel_-_Bittersweet_Propaganda.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bittersweet",
+      "artist": "Apocalyptica",
+      "has_synced": true,
+      "path": "select/11_Bittersweet_Apocalyptica.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bittersweet",
+      "artist": "Apocalyptica, Ville Valo & Lauri Ylönen",
+      "has_synced": true,
+      "path": "select/12_Bittersweet_Apocalyptica,_Ville_Valo_&_Lauri_Ylönen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bittersweet",
+      "artist": "Apocalyptica (Feat. Ville Valo & Lauri Ylonen)",
+      "has_synced": true,
+      "path": "select/13_Bittersweet_Apocalyptica_(Feat._Ville_Valo_&_Lauri_Ylonen).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bittersweet",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/14_Bittersweet_Within_Temptation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bittersweet",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Bittersweet_嵐.txt"
+    }
+  ]
+}
